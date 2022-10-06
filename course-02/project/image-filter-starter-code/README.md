@@ -48,7 +48,7 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 ### endpoint
-http://image-filter-starter-code-dev32.us-west-2.elasticbeanstalk.com/filteredimage?imgUrl=https://image.shutterstock.com/image-photo/diverse-amazon-forest-seen-above-600w-2072628056.jpg
+http://image-filter-starter-code-dev32.us-west-2.elasticbeanstalk.com/filteredimage?imageUrl=https://image.shutterstock.com/image-photo/diverse-amazon-forest-seen-above-600w-2072628056.jpg
 
 ### Github repository
 
